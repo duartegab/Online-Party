@@ -46,7 +46,7 @@ Clicar nos links abaixo te darão acesso ao meus códigos-fonte e imagens utiliz
 ## 🎁 Gratidão
 
 * Desde já conto o apoio de vocês e peço que me sigam, para acompanharem junto comigo meu primeiro [Projeto Integrador](https://github.com/duartegab/Dream-Builder), que terá relação com minhas disciplinas-chave do meu 1º Semestre (Engenharia de Software 1, Desenvolvimento Web 1 e Design Digital)! 📢;
-* Agradeço ao meu professor Márcio Funes, que me instruiu com o projeto. Agradeço também a toda equipe W3 Schools, que forneceu todo o material necessário para eu conseguir levantar esse projeto do zero. E a minha família, amigos, que me motivam a cada dia mais para entrar no Ramo de Tecnologia da Informação, com o objetivo de construir uma carreira estável, sendo um profissional íntegro e inovador. 🫂;
+* Agradeço ao meu professor Márcio Funes, que me instruiu com o projeto. Agradeço também os projetos iniciais que estão pelo CodePen, que forneceu todo a bagagem necessária para eu conseguir levantar esse projeto do zero. E a minha família, amigos, que me motivam a cada dia mais para entrar no Ramo de Tecnologia da Informação, com o objetivo de construir uma carreira estável, sendo um profissional íntegro e inovador. 🫂;
 
 ---
 ⌨️ com ❤️ por [Gabriel Duarte](https://github.com/duartegab) 😊
