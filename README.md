@@ -20,7 +20,7 @@ Ai aparece um vídeo de tela, além de mostrar recomendações ao passar o mouse
 
 
 
-![Video](https://github.com/duartegab/Online-Party/blob/main/onlinepartyy.mp4)
+![Video]([https://github.com/duartegab/Online-Party/blob/main/onlinepartyy.mp4](https://github.com/duartegab/Online-Party/assets/162778199/c33b3c1c-6ee7-4a7c-bb31-f23252c807a2))
 Para de fato simularmos uma festa virtual, gravei um vídeo para mostrar a sensação do usuário, ao ver a animação com a luz apagada e a música rolando. Que tudo, né?! 
 
 
